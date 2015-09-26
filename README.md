@@ -1,6 +1,8 @@
 Mini-NDN
 ========
 
+[![Join the chat at https://gitter.im/ndncomm/mini-ndn](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ndncomm/mini-ndn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### What is Mini-NDN?
 
 Mini-NDN is a lightweight networking emulation tool that enables testing, experimentation, and
